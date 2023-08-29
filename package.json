@@ -1,0 +1,27 @@
+{
+  "name": "custom-button-aug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irshadvali/augButton.git"
+  },
+  "keywords": [
+    "custom",
+    "button"
+  ],
+  "author": "Irshad Vali",
+  "license": "ISC",
+  "peerDependencies": {
+    "react": "18.2.0",
+    "react-native": "0.72.4"
+  },
+  "bugs": {
+    "url": "https://github.com/irshadvali/augButton/issues"
+  },
+  "homepage": "https://github.com/irshadvali/augButton#readme"
+}
